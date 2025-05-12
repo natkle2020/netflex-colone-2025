@@ -1,14 +1,17 @@
-body {
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+:root{
+  --font-base:'lexend',sans-serif;;
+  --font-second-base:'inter', sans-scrif;
+  --bg-color:black;
+  --primary-color: white
+  --secondary-color:red
+}
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background: white;
 }
-
