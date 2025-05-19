@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netflex-colone-2025/static/css/main.35c8f8e7.css",
+    "main.js": "/netflex-colone-2025/static/js/main.1b2250e8.js",
+    "static/media/B743480D-B87E-4E2B-97F9-C8E1D6F809C2_4_5005_c.jpeg": "/netflex-colone-2025/static/media/B743480D-B87E-4E2B-97F9-C8E1D6F809C2_4_5005_c.fcd2d2731a7c2cd939f6.jpeg",
+    "index.html": "/netflex-colone-2025/index.html",
+    "main.35c8f8e7.css.map": "/netflex-colone-2025/static/css/main.35c8f8e7.css.map",
+    "main.1b2250e8.js.map": "/netflex-colone-2025/static/js/main.1b2250e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c8f8e7.css",
+    "static/js/main.1b2250e8.js"
+  ]
+}
