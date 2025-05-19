@@ -26,7 +26,7 @@
   /* display: flex;
     justify-content: space-between;
   } */
-  */ .header_left ul li,
+   .header_left ul li,
   .header_right ul li {
     cursor: pointer;
     font-size: 14px;

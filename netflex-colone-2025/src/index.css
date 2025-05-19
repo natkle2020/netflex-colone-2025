@@ -1,17 +1,19 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-:root{
-  --font-base:'lexend',sans-serif;
-  --font-second-base:'inter', sans-scrif;
-  --bg-color:black;
+
+:root {
+  --font-base: 'Lexend', sans-serif;
+  --font-second-base: 'Inter', sans-serif;
+  --bg-color: black;
   --primary-color: white;
-  --secondary-color:red;
+  --secondary-color: red;
 }
-*{
+
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   background: white;
 }
