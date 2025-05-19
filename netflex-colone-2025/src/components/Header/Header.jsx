@@ -5,7 +5,7 @@ import SearchRoundedIcon from '@mui/icons-material/SearchRounded';
 import NotificationsNoneRoundedIcon from '@mui/icons-material/NotificationsNoneRounded';
 import AccountBoxRoundedIcon from '@mui/icons-material/AccountBoxRounded';
 import ArrowDropDownRoundedIcon from '@mui/icons-material/ArrowDropDownRounded';
-import logo from "../../assets/image/B743480D-B87E-4E2B-97F9-C8E1D6F809C2_4_5005_c.jpeg"
+import logo from "../../assets/image/FF1B70F8-B4DF-4488-8A06-2109259276E6.png"
 function Header() {
   return (
 <div className='header_outer_container'>
@@ -19,7 +19,7 @@ function Header() {
 <li>Moviest</li>
 <li>Latest</li>
 <li>MyList</li>
-<li>Brose by Languges</li>
+<li>Browse by Languages</li>
 </ul>
 <div className='header_right'>
 <ul>
