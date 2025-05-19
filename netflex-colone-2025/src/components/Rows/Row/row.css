@@ -1,25 +1,21 @@
-/* src/components/Row/Row.css */
 .row {
   color: #fff;
-  margin-left:  20px;
+  margin-left: 20px;
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 30px;
+  font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "width" 100;
+  /* Removed potentially problematic line: font-variation-settings */
 }
 
 .row__posters {
   display: flex;
-  /* overflow-x: scroll; */
   overflow-y: scroll;
   padding: 20px;
-  /* scrollbar-width: none;  */
 }
 
 .row__posters::-webkit-scrollbar {
-  display: none; /* Chrome, Safari */
+  display: none;
 }
 
 .row__poster {
@@ -33,15 +29,11 @@
 .row__poster:hover {
   transform: scale(1.08);
 }
+
 .row__posterLarge {
   max-height: 250px;
-  /* margin-top: 20%; */
 }
-/* .title{
-  margin: 20px 0 0 0;
-} */
 
-/* only row  */
 .arrow {
   background: rgba(0, 0, 0, 0.5);
   border: none;
@@ -54,6 +46,7 @@
   padding: 10px 0;
   opacity: 0.7;
 }
+
 .arrow:hover {
   opacity: 1;
 }
